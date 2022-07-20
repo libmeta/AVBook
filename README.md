@@ -1,5 +1,5 @@
 # AVBook
-about mediastream
+about stream media
 
 https://github.com/ForgotFun/QosDocs.git
 
