@@ -14,3 +14,5 @@ https://webrtc.googlesource.com/src
 https://github.com/FFmpeg/FFmpeg.git
 
 https://github.com/Unity-Technologies/com.unity.webrtc.git
+
+https://github.com/latelee/H264BSAnalyzer.git
