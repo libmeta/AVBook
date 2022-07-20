@@ -16,3 +16,5 @@ https://github.com/FFmpeg/FFmpeg.git
 https://github.com/Unity-Technologies/com.unity.webrtc.git
 
 https://github.com/latelee/H264BSAnalyzer.git
+
+https://github.com/IENT/YUView.git
